@@ -1,4 +1,4 @@
-👋 Hi, I’m Sandor, currently a **Junior level Frontend Developer** looking forward to work in 
+👋 Hi, I’m Sandor, currently a **Frontend Developer** with 1+ year experience, and looking forward to work in 
 **React** ⚛ projects, and making fun with **Python** 🐍 automation with **Selenium Webdriver**.
 
 👀 You can already find some of my projects in my Github written in **React**, **Python** and 
